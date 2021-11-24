@@ -1,7 +1,7 @@
 // configuration
 let config = ({
-    urlPuzzle: '/images/puzzles/small_puzzle.jpg', // 35 pieces
-    // urlPuzzle: '/images/puzzles/road-autumn.jpg', // 897 pieces
+    urlPuzzle: 'images/puzzles/small_puzzle.jpg', // 35 pieces
+    // urlPuzzle: 'images/puzzles/road-autumn.jpg', // 897 pieces
     urlCanvasBackground: '/images/fond_bois-xlarge.jpeg',
     tileWidth: 50, // TODO : Remplacer valeur en dur par valeur calculée !!
     margeErreur: 10 // TODO : supp mod debug
